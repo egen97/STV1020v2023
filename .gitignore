@@ -2,6 +2,10 @@
 .Rhistory
 .RData
 .Ruserdata
-
 # Gamle script
 ./script/old/*
+Forelesning
+ESS9NO.dta
+*.png
+*.jpeg
+*.html
